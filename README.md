@@ -76,7 +76,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
-```#include<stdio.h>
+~~~
+#include<stdio.h>
 #define Pl 3.14159
 int main() {
 const int DAYS = 7;
@@ -85,7 +86,8 @@ printf("Value of constant variable DAYS: Xd\n", DAYS)
 return a;
 }
 # Output:
-```<img width="605" height="162" alt="image" src="https://github.com/user-attachments/assets/bff3d210-c056-4b6e-a4be-32ee19528e93" />
+~~~
+<img width="605" height="162" alt="image" src="https://github.com/user-attachments/assets/bff3d210-c056-4b6e-a4be-32ee19528e93" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -110,7 +112,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
-```#include <stdio.h>
+~~~
+#include <stdio.h>
 
 int main() {
     int intVar = 25;
@@ -126,7 +129,8 @@ int main() {
     return 0;
 }
 # Output:
-```<img width="672" height="345" alt="image" src="https://github.com/user-attachments/assets/21022dff-0c80-4286-a746-02ca64ddaa20" />
+~~~
+<img width="672" height="345" alt="image" src="https://github.com/user-attachments/assets/21022dff-0c80-4286-a746-02ca64ddaa20" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -166,7 +170,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
-```#include <stdio.h>
+~~~
+#include <stdio.h>
 
 int main() {
     int a, b;
@@ -198,7 +203,8 @@ int main() {
     return 0;
 }
 # Output:
-```<img width="612" height="707" alt="image" src="https://github.com/user-attachments/assets/1ad280f5-1d9c-435f-9e51-b30c061e75f5" />
+~~~
+<img width="612" height="707" alt="image" src="https://github.com/user-attachments/assets/1ad280f5-1d9c-435f-9e51-b30c061e75f5" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -244,7 +250,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
-```#include<stdio.h>
+~~~
+#include<stdio.h>
 
 int main(){
     char ch;
@@ -262,7 +269,8 @@ int main(){
 }
 
 # Output:
-```<img width="610" height="135" alt="image" src="https://github.com/user-attachments/assets/74c7eb7e-78ef-433f-bd42-a79040232976" />
+~~~
+<img width="610" height="135" alt="image" src="https://github.com/user-attachments/assets/74c7eb7e-78ef-433f-bd42-a79040232976" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
